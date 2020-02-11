@@ -1,0 +1,4 @@
+vi /etc/apt/sources.list
+
+deb http://ftp.us.debian.org/debian/ jessie-updates main contrib 
+deb-src http://ftp.us.debian.org/debian/ jessie-updates main contrib 
